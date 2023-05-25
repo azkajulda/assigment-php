@@ -814,4 +814,39 @@ echo "Nama: " . $mahasiswa->get_nama() . "<br>";
 echo "NIM: " . $mahasiswa->get_nim() . "<br>";
 echo "Kelas: " . $mahasiswa->get_kelas() . "<br>";
 
+class Kalkulator {
+  // fungsi untuk melakukan operasi penjumlahan
+  function tambah($angka1, $angka2) {
+    return $angka1 + $angka2;
+  }
 
+  // fungsi untuk melakukan operasi pengurangan
+  function kurang($angka1, $angka2) {
+    return $angka1 - $angka2;
+  }
+
+  // fungsi untuk melakukan operasi perkalian
+  function kali($angka1, $angka2) {
+    return $angka1 * $angka2;
+  }
+
+  // fungsi untuk melakukan operasi pembagian
+  function bagi($angka1, $angka2) {
+    return $angka1 / $angka2;
+  }
+}
+
+// membuat objek kalkulator baru
+$kalkulator = new Kalkulator();
+
+// melakukan operasi penjumlahan
+echo "10 + 5 = " . $kalkulator->tambah(10, 5) . "<br>";
+
+// melakukan operasi pengurangan
+echo "10 - 5 = " . $kalkulator->kurang(10, 5) . "<br>";
+
+// melakukan operasi perkalian
+echo "10 * 5 = " . $kalkulator->kali(10, 5) . "<br>";
+
+// melakukan operasi pembagian
+echo "10 / 5 = " . $kalkulator->bagi(10, 5) . "<br>";
