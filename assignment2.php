@@ -814,3 +814,4 @@ echo "Nama: " . $mahasiswa->get_nama() . "<br>";
 echo "NIM: " . $mahasiswa->get_nim() . "<br>";
 echo "Kelas: " . $mahasiswa->get_kelas() . "<br>";
 
+
