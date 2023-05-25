@@ -512,6 +512,1497 @@ $prisma = new Prisma(25, 10, 3);
 echo $prisma->hitungVolume();
 echo $prisma->hitungLuasPermukaan();
 
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
+$kubus = new Kubus(5);
+echo $kubus->hitungVolume();
+echo $kubus->hitungLuasPermukaan();
+
+$kerucut = new Kerucut(3, 5);
+echo $kerucut->hitungVolume();
+echo $kerucut->hitungLuasPermukaan();
+
+$limas = new Limas(20, 10, 5);
+echo $limas->hitungVolume();
+echo $limas->hitungLuasPermukaan();
+
+$bola = new Bola(7);
+echo $bola->hitungVolume();
+echo $bola->hitungLuasPermukaan();
+
+$prisma = new Prisma(25, 10, 3);
+echo $prisma->hitungVolume();
+echo $prisma->hitungLuasPermukaan();
+$balok = new Balok(2, 3, 4);
+echo $balok->hitungVolume();
+echo $balok->hitungLuasPermukaan();
+
 
 class Mahasiswa {
   // properti (variabel) untuk kelas Mahasiswa
